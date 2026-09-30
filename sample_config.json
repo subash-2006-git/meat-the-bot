@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "audio_file": "audio/recording.mp3",
+  "volume": 100,
+  "loop": false
+}
